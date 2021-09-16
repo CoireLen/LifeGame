@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2a66a51-2be9-4eb4-9729-5348b4f7d1e2": {
+      "ProjectGuid": "f2a66a51-2be9-4eb4-9729-5348b4f7d1e2",
+      "DisplayName": "LifeGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

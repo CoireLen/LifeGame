@@ -1,0 +1,24 @@
+﻿  main.cc
+  This version of the OpenCL Host API C++ bindings is deprecated, please use cl2.hpp instead.
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+D:\Lib\vcpkg\installed\x86-windows\include\CL\cl.hpp(4676,21): error C4996: 'clCreateSampler': 被声明为已否决
+D:\Lib\vcpkg\installed\x86-windows\include\CL\cl.hpp(5536,25): error C4996: 'clCreateCommandQueue': 被声明为已否决
+D:\Lib\vcpkg\installed\x86-windows\include\CL\cl.hpp(5567,21): error C4996: 'clCreateCommandQueue': 被声明为已否决
+D:\Lib\vcpkg\installed\x86-windows\include\CL\cl.hpp(5584,21): error C4996: 'clCreateCommandQueue': 被声明为已否决
+D:\Lib\vcpkg\installed\x86-windows\include\CL\cl.hpp(6390,15): error C4996: 'clEnqueueTask': 被声明为已否决
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(99,44): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(99,37): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(99,32): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(99,29): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(106,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(107,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(108,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(109,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(116,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(117,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(118,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(119,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(177,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(178,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(179,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Dev\Cpp\LifeGame\LifeGame\main.cc(180,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
