@@ -1,6 +1,7 @@
 #ifndef UNICODE
 #define UNICODE
 #endif
+#pragma warning( disable : 4996 )
 #include <Windows.h>
 #include <CL/cl.hpp>
 #include <gl/GL.h>
@@ -17,8 +18,8 @@ cl::Buffer* BA = NULL;
 cl::Kernel* KN;
 cl::Context* CT;
 size_t MAX_WORK_ITEM_SIZES[3] = { 100,100 };
-#define hight 100
-#define width 150
+#define hight 1000
+#define width 1500
 #define WindowsHight 1000
 #define WindowsWidth 1500
 #define zoomX 1.015
